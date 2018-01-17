@@ -2,6 +2,8 @@
 
 Gives you the title of a random wikipedia article, asks if you want to open it or get a next one.
 
+![Screenshot](https://res.cloudinary.com/teateearu/image/upload/v1516201279/Screen_Shot_2018-01-17_at_15.57.27_his7a4.png "terminal")
+
 ## How to Run the app
 
 in Terminal:
